@@ -14,7 +14,7 @@ This project allowed me to grasp the implementation of simple web api's, and the
 
 There are no steps for installation simply just vist the website to take the practice test.
 
-Usage
+##Usage
 
 Press the start button, and follow the prompts on screen, and answer the questions to the best of you ability.
 
